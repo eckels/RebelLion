@@ -1,0 +1,672 @@
+.vgllink {
+
+    text-decoration: none;
+    color: #0892D0;
+
+}
+
+
+.vglq {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    text-align: center;
+    width: 40%;
+    height: auto;
+
+}
+
+
+.vglfinals {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    margin-bottom: 0px;
+    width: 40%;
+    height: auto;
+
+}
+
+
+.title34 {
+
+    color: white;
+    font-size: 230%;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+    display: block;
+
+}
+
+
+
+.title35 {
+
+    color: white;
+    font-size: 180%;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+    display: block;
+
+}
+
+
+.twitterlink2 {
+
+    text-decoration: none;
+    color: #0892D0;
+
+}
+
+
+
+.recruitmentdesc {
+
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 110%;
+    line-height: 170%;
+    margin: 0px 60px 0px 60px;
+    text-align: center;
+
+}
+
+
+.largetxt {
+
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 200%;
+    line-height: 170%;
+    margin: 0px 60px 0px 60px;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+
+.medtxt {
+
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 150%;
+    line-height: 170%;
+    margin: 0px 60px 0px 60px;
+    text-align: center;
+
+}
+
+
+.rform {
+
+    color: white;
+    line-height: 170%;
+    margin: 30px 30px 5px 30px;
+    padding: 30px 30px 30px 30px;
+    background-color: #242424;
+    font-family: 'Lato', sans-serif;
+
+}
+
+
+hr {
+
+    visibility: hidden;
+
+}
+
+
+.recruitmentform {
+
+    text-align: center;
+    font-size: 200%;
+    color: white;
+
+}
+
+
+body {
+
+     padding: 50px 0px 0px 0px;
+     margin: 0px 0px 0px 0px;
+     border-style: none;
+     font-family: 'Lato', sans-serif;
+     background-color: #050505;
+
+}
+
+
+
+.nav1 {
+      width: 100%;
+      margin: 0px 0px 0px 0px;
+      padding: 0px;
+      list-style: none;
+      position: fixed;
+      right: 0;
+      left: 0;
+      top: 0;
+      height: 50px;
+      background-color: #0892D0;
+      border-bottom: solid;
+      border-bottom-width: 1px;
+      border-bottom-color: rgba(255,255,255,0.1);
+}
+
+
+.navlogo {
+
+     padding: 0px 0px 0px 0px;
+     margin: 0px 10px 0px 0px;
+     width: auto;
+     height: 30px;
+     float: left;
+}
+
+
+
+.title {
+
+     color: white;
+     font-size: 120%;
+     float: left;
+     margin: 0px 10px 0px 0px;
+     letter-spacing: 3px;
+}
+
+
+.list1 {
+     float: right;
+     display: block;
+     padding: 0px 17px;
+     text-decoration: none;
+     font-weight: bold;
+     margin: 0px 0px 0px 0px;
+     letter-spacing: 1px;
+}
+
+
+.menu1 {
+     text-decoration: none;
+     color: white;
+     margin: 0px 12px 0px 0px;
+}
+
+
+.menu1:hover {
+     text-shadow: 1px 1px 1px black;
+}
+
+
+footer {
+
+    width: 100%;
+    height: 120px;
+    background-color: #242424;
+    float: left;
+    margin-top: 40px;
+
+}
+
+
+.footertext {
+
+    color: white;
+    font-size: 110%;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+
+
+.footerlogo {
+
+    height: 75px;
+    width: auto;
+    margin: 30px 0px 0px 20px;
+    float: left;
+
+}
+
+
+.twitterlogo {
+
+    height: 30px;
+    margin: 45px 40px 0px 10px;
+    float: right;
+    padding: 7px 7px 7px 7px;
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
+
+}
+
+
+.twitterlogo:hover {
+
+    background-color: #0892D0;
+    border-color: #0892D0;
+    border-width: 3px;
+
+}
+
+
+.footerbigtxt {
+
+    color: white;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 3px;
+    font-size: 170%;
+    font-weight: bold;
+    margin: 45px 0px 0px 5px;
+    float: left;
+
+}
+
+
+.footertxt {
+
+    color: white;
+    font-family: 'Lato', sans-serif;
+    float: left;
+    margin: 56px 0px 0px 35px;
+    text-decoration: none;
+
+}
+
+
+.footertxt:hover {
+
+    color: #0892D0;
+
+}
+
+
+.header { display: none; }
+
+
+
+/* -------------------------------- 
+
+Mobile Navigation
+
+-------------------------------- */
+
+@media (max-width: 900px) {
+
+.nav1 { display: none; }
+
+.navlogo { display: none; }
+
+.title { display: none; }
+
+.list1 { display: none; }
+
+.menu1 { display: none; }
+
+
+body {
+
+    margin: -25px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+
+}
+
+
+.header {
+  background-color: #0892D0;
+  box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
+  position: fixed;
+  width: 100%;
+  z-index: 3;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  display: block;
+}
+ 
+.header .menu {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  overflow: hidden;
+  background-color: #0892D0;
+}
+ 
+.header .list .mobilelink {
+  display: block;
+  padding: 15px 20px 15px;
+  border-top: 1px solid rgba(255,255,255,.2);
+  text-decoration: none;
+}
+ 
+.header .list .mobilelink:hover {
+  background-color: #0892D0;
+}
+ 
+.header .logo {
+  display: block;
+  float: left;
+  font-size: 2em;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+ 
+.header .menu {
+  clear: both;
+  max-height: 0;
+  transition: max-height .2s ease-out;
+}
+
+.header .menu-icon {
+  cursor: pointer;
+  display: inline-block;
+  float: right;
+  padding: 28px 20px;
+  position: relative;
+  user-select: none;
+}
+ 
+.header .menu-icon .navicon {
+  background: white;
+  display: block;
+  height: 2px;
+  position: relative;
+  transition: background .2s ease-out;
+  width: 18px;
+}
+ 
+.header .menu-icon .navicon:before,
+.header .menu-icon .navicon:after {
+  background: white;
+  content: '';
+  display: block;
+  height: 100%;
+  position: absolute;
+  transition: all .2s ease-out;
+  width: 100%;
+}
+ 
+.header .menu-icon .navicon:before {
+  top: 5px;
+}
+ 
+.header .menu-icon .navicon:after {
+  top: -5px;
+}
+
+.header .menu-btn {
+  display: none;
+}
+ 
+.header .menu-btn:checked ~ .menu {
+  max-height: 400px;
+}
+ 
+.header .menu-btn:checked ~ .menu-icon .navicon {
+  background: transparent;
+}
+ 
+.header .menu-btn:checked ~ .menu-icon .navicon:before {
+  transform: rotate(-45deg);
+}
+ 
+.header .menu-btn:checked ~ .menu-icon .navicon:after {
+  transform: rotate(45deg);
+}
+ 
+.header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,
+.header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
+  top: 0;
+}
+
+
+.title3 {
+
+    display: inline-block;
+    float: left;
+    margin-left: 4px;
+    color: white;
+    font-size: 140%;
+    letter-spacing: 2px;
+
+}
+
+
+.logo3 {
+
+    height: 40px;
+    width: auto;
+    margin: 10px 0px 0px 20px;
+    float: left;
+
+}
+
+.mobilelink {
+
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 120%;
+
+}
+
+
+.title34 {
+
+    padding-top: 90px;
+
+}
+
+
+.recruitmentdesc {
+
+   margin: 0px 30px 0px 30px;
+
+}
+
+.largetxt {
+
+   margin: 0px 30px 0px 30px;
+
+}
+
+.medtxt {
+
+   margin: 0px 30px 0px 30px;
+
+}
+
+
+.vglq {
+
+    width: 50%;
+
+}
+
+
+.vglfinals {
+
+    width: 50%;
+
+}
+
+
+}
+
+
+/* -------------------------------- 
+
+Small Mobile Devices
+
+-------------------------------- */
+
+@media (max-width: 450px) {
+
+.title3 {
+    font-size: 100%;
+    margin-top: 18px;
+    margin-left: 10px;
+    display: none;
+    
+
+ }
+
+.logo3 {
+
+    margin-left: -24px;   
+    position: absolute;
+
+}
+
+
+.rform {
+
+    color: white;
+    line-height: 130%;
+    margin: 20px 0px 5px 0px;
+    padding: 10px 10px 10px 10px;
+    background-color: #242424;
+
+}
+
+
+.recruitmentform {
+
+    font-size: 150%;
+
+}
+
+hr {
+
+    margin-top: 20px;
+
+}
+
+
+.recruitmentdesc {
+
+   margin: 0px 15px 0px 15px;
+
+}
+
+
+.medtxt {
+
+   margin: 0px 15px 0px 15px;
+
+}
+
+
+.largetxt {
+
+   margin: 0px 15px 0px 15px;
+
+}
+
+
+
+.twitterlink2 {
+
+    font-size: 70%;
+
+}
+
+
+.largetxt {
+
+    font-size: 160%;
+
+}
+
+
+.medtxt {
+
+    font-size: 110%;
+
+}
+
+
+.vglq {
+
+    width: 80%;
+
+}
+
+
+.vglfinals {
+
+    width: 80%;
+
+}
+
+
+
+}
+
+
+
+
+
+/* -------------------------------- 
+
+Footer Display
+
+-------------------------------- */
+
+@media (max-width: 858px) {
+
+.footerlogo { display: none; }
+
+ .footerbigtxt { display: none; }
+
+
+.twitterlogo {
+
+    float: left;
+    width: 30px;
+    height: auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-left: -16px;
+    margin-bottom: 0px;
+    border: none;
+    padding-left: 50%;
+
+}
+
+
+.twitterlogo:hover {
+
+    background-color: rgba(255,255,255,0);
+
+}
+
+
+.footertxt {
+
+    display: inline;
+    margin: 0 auto;
+    text-align: center;
+    float: left;
+    width: 70%;
+    margin: 10px 15% 10px 15%;
+
+}
+
+
+footer {
+
+    height: 205px;
+
+}
+
+
+
+}
