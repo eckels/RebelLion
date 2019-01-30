@@ -2,7 +2,7 @@
 
     float : left;
     display: block;
-    background-image: url("http://www.rebellion-vg.com/img/ringo.jpg");
+    background-image: url("../img/ringo.jpg");
     background-color: transparent;
     text-align: center;
     width: 98%;
@@ -17,7 +17,7 @@
 
     float : left;
     display: block;
-    background-image: url("http://www.rebellion-vg.com/img/koshka.jpg");
+    background-image: url("../img/koshka.jpg");
     background-color: transparent;
     text-align: center;
     width: 98%;
